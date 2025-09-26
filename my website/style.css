@@ -38,9 +38,9 @@ body{
     text-align: center;
     padding: 120px;
     font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: -3px 3px 5px black ;
-    font-weight: bold;
+    font-family: monteserrat;
+    text-shadow: -4px 4px 4px black ;
+    font-weight: 250;
 }  
 h1{
     text-align: center;
@@ -99,3 +99,6 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: goldenrod;
 } 
+@media (max-width: 600px) {
+
+}
